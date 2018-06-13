@@ -1,5 +1,7 @@
 # Site Logo & Text
 
+![](.gitbook/assets/site-logo.png)
+
 ### Site Logo & Text HTML Code {#site-logo-and-text-html-code}
 
  The below code can be found in all HTML pages that are included with the theme. code will be placed from 37th to 43st line of each page.
