@@ -11,4 +11,5 @@
 * [Site Navigation](untitled.md)
 * [Banners](banners.md)
 * [Footer Widgets](untitled-1.md)
+* [Change Log](change-log.md)
 
