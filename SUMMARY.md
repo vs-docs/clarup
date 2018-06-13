@@ -13,4 +13,5 @@
 * [Change Log](change-log.md)
 * [Extra](extra.md)
 * [Rate it](rate-it.md)
+* [Support](support.md)
 
