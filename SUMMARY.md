@@ -14,4 +14,5 @@
 * [Extra](extra.md)
 * [Rate it](rate-it.md)
 * [Support](support.md)
+* [Thank you!](thank-you.md)
 
