@@ -1,6 +1,6 @@
 # Site Logo & Text
 
-![](.gitbook/assets/site-logo.png)
+![Site Logo.](.gitbook/assets/site-logo.png)
 
 ### Site Logo & Text HTML Code {#site-logo-and-text-html-code}
 
