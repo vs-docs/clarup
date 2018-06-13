@@ -10,4 +10,5 @@
 * [Site Logo & Text](site-logo-and-text.md)
 * [Site Navigation](untitled.md)
 * [Banners](banners.md)
+* [Footer Widgets](untitled-1.md)
 
