@@ -8,7 +8,7 @@
   * [JS Libs](assets-used/untitled.md)
 * [Site Logo & Text](site-logo-and-text.md)
 * [Site Navigation](untitled.md)
-* [Banners](banners.md)
+* [Home Page Banner](banners.md)
 * [Footer Widgets](untitled-1.md)
 * [Change Log](change-log.md)
 

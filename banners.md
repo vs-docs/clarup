@@ -1,2 +1,2 @@
-# Banners
+# Home Page Banner
 
