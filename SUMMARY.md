@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [Assets Used](assets-used/README.md)
   * [Fonts](assets-used/fonts.md)
-* [CSS Libs](css-libs.md)
-* [JS Libs](untitled.md)
+  * [CSS Libs](assets-used/css-libs.md)
+  * [JS Libs](assets-used/untitled.md)
 * [Site Loader](site-loader.md)
 
